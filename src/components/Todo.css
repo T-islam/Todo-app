@@ -1,0 +1,23 @@
+.todo-article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    background-color: #3c3a3a;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.todo-article h2 ,p{
+    margin: 0;
+}
+.todo-article:hover{
+    background-color: black;
+    transition: background-color 0.5s;
+
+}
+.icons{
+    color:rgb(185, 21, 21);
+    cursor: pointer;
+}

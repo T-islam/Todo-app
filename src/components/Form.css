@@ -1,0 +1,20 @@
+.form-section{
+    display: flex;
+    flex-direction: column;
+    width: 59vw;
+    background-color: #282626;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    padding: 17px 5px;
+}
+.form-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    color: white;
+}
+.textField{
+    width: 40vw;
+    border: 0px;
+    border-radius: 3px;
+}
